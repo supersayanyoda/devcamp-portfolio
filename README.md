@@ -2,7 +2,7 @@
 
 >this is a Ruby on Rails 5 App
 
-###Features
+### Features
 
 - Real time chat engine for comments
 - blog
@@ -15,4 +15,4 @@
 def my_great_method
     puts "here it is"
     end
-    ```
+```
